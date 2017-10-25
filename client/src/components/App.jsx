@@ -8,7 +8,7 @@ import Dashboard from "./Dashboard";
 import SurveyNew from "./surveys/SurveyNew";
 import "./app.css";
 
-const Landing = () => <h2>Welcome in ShaadiKaro!</h2>;
+const Landing = () => <h2>Welcome in ShaadiKaro App!</h2>;
 const Surveys = () => <h2>Surveys Dashboard</h2>;
 
 class App extends Component {
